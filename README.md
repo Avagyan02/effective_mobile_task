@@ -14,8 +14,8 @@
 
 1. **Клонирование репозитория (если нужно)**:
    ```bash
-   git clone https://your-repository-url.git
-   cd your-repository-folder
+   git clone https://github.com/Avagyan02/effective_mobile_task.git
+   cd effective_mobile_task
    ```
 
 2. **Скачайте или создайте файл `monitor_test.sh`**:
@@ -92,7 +92,3 @@
 - Убедитесь, что у вас есть права для записи в лог-файл `/var/log/monitoring.log`.
 - Этот скрипт можно адаптировать для других процессов, изменив переменную `PROCESS_NAME`.
 - URL для мониторинга можно заменить на свой собственный.
-
-## Лицензия
-
-Этот проект лицензирован под [MIT License](LICENSE).
